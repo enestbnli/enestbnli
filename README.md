@@ -12,6 +12,9 @@ Ever since I joined GitHub **1** years ago, I pushed **1** commits, opened **1**
 
 Here is a list of my **projects** that are worth mentioning:
 
+-
+-
+
 Also, see my _pinned repositories_ below.
 
 Ping me on `Stegs#2021` if you want to chat!
