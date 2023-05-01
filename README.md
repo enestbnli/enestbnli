@@ -15,8 +15,6 @@ Here is a list of my **projects** that are worth mentioning:
 -
 -
 
-Also, see my _pinned repositories_ below.
-
 Ping me on `Stegs#2021` if you want to chat!
 
 **~** [_tbnl.dev_](https://tbnl.dev/)
