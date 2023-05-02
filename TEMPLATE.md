@@ -15,6 +15,8 @@ Here is a list of my **projects** that are worth mentioning:
 -
 -
 
+Currently, I'm learning C, Linux and Rust.
+
 Ping me on `Stegs#2021` if you want to chat!
 
 **~** [_tbnl.dev_](https://tbnl.dev/)
