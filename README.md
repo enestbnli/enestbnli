@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **0** years ago, I pushed **17** commits, opened **0** issues, submitted **0** pull requests, received **0** stars across **2** personal projects, and contributed to **0** public repositories.
+Ever since I joined GitHub **0** years ago, I pushed **18** commits, opened **0** issues, submitted **0** pull requests, received **0** stars across **2** personal projects, and contributed to **0** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
@@ -19,4 +19,4 @@ Currently, I'm learning C, Linux and Rust.
 
 Ping me on `Stegs#2021` if you want to chat!
 
-**~** [_enestbnli.github.io_](https://enestbnli.github.io/)
+**~** [_tbnl.dev_](https://tbnl.dev/)
