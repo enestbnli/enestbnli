@@ -12,8 +12,6 @@ Ever since I joined GitHub **0** years ago, I pushed **27** commits, opened **0*
 
 Here is a list of my **projects** that are worth mentioning:
 
-- [TBWiki](https://tbwiki.gitbook.io/): A wiki project, included Linux and Unix-like operating systems topics.
-
 Currently, I'm learning C, Linux and Rust.
 
 Ping me on `Stegs#2021` if you want to chat!
